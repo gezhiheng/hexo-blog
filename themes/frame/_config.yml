@@ -3,7 +3,7 @@
 language: en
 
 # header
-site_brand_name: GEZHIHENG BLOG.
+site_brand_name: GEZHIHENG BLOG
 
 logo_image:
   enable: false
@@ -29,14 +29,14 @@ date_format: MMM D, YYYY
 
 # profile
 profile:
-  title: Hi, this is Gezhiheng.
-  body: A Developer/Basketball enthusiast/Gamer.
+  title: GEZHIHENG BLOG
+  body: "离开世界之前 一切都是过程"
   image: https://my-pic-base.oss-cn-beijing.aliyuncs.com/my-avatar.jpg
 
   links:
-    Home: /
-    Blogs: /archives/
-    Gallery: /categories/gallery/
+    主页: /
+    博客: /archives/
+    画廊: /categories/gallery/
 
 # footer
 footer:
