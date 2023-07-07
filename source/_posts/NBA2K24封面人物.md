@@ -1,5 +1,5 @@
 ---
-title: NBA2K24封面
+title: NBA2K24封面人物
 date: 2023-07-07 14:31:11
 tags: [NBA2K, Game]
 categories:
