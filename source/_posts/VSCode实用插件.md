@@ -1,11 +1,11 @@
 ---
 title: VSCode实用插件
-date: 2023-07-08 00:18:08
+date: 2023-07-08 01:16:25
 tags:
 ---
 ## Turbo Console Log
 前端开发必备的打印神器，众所周知前端开发的时候会大量使用 “console.log()” 方法，每次都手敲会十分不便。而这个插件为我们解决了这个难题。
-![Alt text](image-1.png)
+![Alt text](https://my-pic-base.oss-cn-beijing.aliyuncs.com/blog/vscodeplugin/howtouseconsolelog.png)
 选中你要打印的变量（上图使用num这个变量）
 - 快捷打印变量：control + option + L
 - 注释所有的打印：option + shift + C
@@ -23,7 +23,7 @@ tags:
 ```
 3. 输入 “Carbon”，点击它
 完成上述步骤之后，会跳转到一个网页，你可以设置图片的颜色以及代码的格式，如下图所示:
-![Alt text](image-3.png)
+![Alt text](https://my-pic-base.oss-cn-beijing.aliyuncs.com/blog/vscodeplugin/Snipaste_2023-07-08_10-06-41.png)
 进行一些简单的设置你想要的风格和样式，就可以下载和复制图片啦
 ## Vetur
 Vetur 是为 Vue 开发量身打造的插件，当你新建一个空的 Vue 文件，在文件内输入 vue 关键字，能联想一些 vue 文件的快速模板，帮助你快速生成 vue 模板页面，大大提高了开发效率。
