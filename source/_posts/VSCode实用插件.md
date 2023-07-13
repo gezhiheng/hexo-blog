@@ -1,7 +1,7 @@
 ---
 title: VSCode实用插件
 date: 2023-07-08 01:16:25
-tags:
+tags: Tools
 ---
 ## Turbo Console Log
 前端开发必备的打印神器，众所周知前端开发的时候会大量使用 “console.log()” 方法，每次都手敲会十分不便。而这个插件为我们解决了这个难题。
