@@ -107,7 +107,7 @@ theme: frame
 deploy:
   type: git
   repo: https://github.com/gezhiheng/gezhiheng.github.io.git #https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
-
+  branch: main
 # Search
 search:
   path: search.xml
