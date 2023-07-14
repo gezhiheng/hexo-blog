@@ -38,7 +38,7 @@ profile:
     # 主页: /
     Archive 归档: /archives/
     # 图库: /categories/gallery/
-    About Me 关于我: /about/
+    About 关于我: /about/
 
 # footer
 footer:
