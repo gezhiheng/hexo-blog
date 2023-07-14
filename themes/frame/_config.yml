@@ -12,7 +12,7 @@ logo_image:
 menu:
   Home: /
   Archive: /archives/
-  Gallery: /categories/gallery/
+  # Gallery: /categories/gallery/
   About: /about/
 
 # stylesheets loaded in the <head>
@@ -35,9 +35,9 @@ profile:
   image: https://my-pic-base.oss-cn-beijing.aliyuncs.com/my-avatar.jpg
 
   links:
-    主页: /
+    # 主页: /
     归档: /archives/
-    图库: /categories/gallery/
+    # 图库: /categories/gallery/
     关于: /about/
 
 # footer
