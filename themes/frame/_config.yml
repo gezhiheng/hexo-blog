@@ -36,9 +36,9 @@ profile:
 
   links:
     # 主页: /
-    归档: /archives/
+    Archive 归档: /archives/
     # 图库: /categories/gallery/
-    关于: /about/
+    About Me 关于我: /about/
 
 # footer
 footer:
