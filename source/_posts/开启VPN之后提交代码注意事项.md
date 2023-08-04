@@ -36,3 +36,10 @@ git config --global https.proxy http://127.0.0.1:10809
 ## 其他解决方案
 也可以用 Github Desktop 这个GitHub官方的桌面端工具可以自动检测拉取代码的改动，用这个官方工具提交代码和拉取代码可以避免很多的问题，就比如打开VPN之后链接重置等
 ![](https://my-pic-base.oss-cn-beijing.aliyuncs.com/undefined2.jpg)
+
+## 取消代理
+如果提交代码时需要取消代理
+```
+git config --global --unset http.proxy
+git config --global --unset https.proxy
+```
